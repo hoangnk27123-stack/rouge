@@ -1,0 +1,6 @@
+{
+  "name": "Vạn Cổ Ma Tháp - Võ Hiệp Roguelike",
+  "description": "Game Auto Battler + Roguelike phong cách võ hiệp huyền huyễn. Vượt qua các tầng tháp vô tận, chiêu mộ đồng hành, thuần hóa linh thú, thu thập thiên thư bảo vật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
